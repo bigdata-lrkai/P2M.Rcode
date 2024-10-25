@@ -12,7 +12,8 @@
 
 <img src="md/Figure 3.jpg" alt="Figure 3" style="zoom:80%;" align="left"/>
 
-**The detailed functions of the online tool for scRNA-seq data are** **described** **as follows**
+  
+**The detailed functions of the online tool for scRNA-seq data are described as follows**
 
 1. ***Data Characteristics*.** This function shows the difference in the number of counts, the number of genes, and the percent of mitochondrial genes detected between the primary and metastatic samples, which can reflect the quality of the current data to a certain extent.
 2. ***Cell Cluster and Cell type*.** This function demonstrates the difference between cell types in primary and metastatic samples, as well as the distribution and number of various cell types in two-dimensional space.
@@ -27,7 +28,8 @@
 
 <img src="md/Figure 4.jpg" alt="Figure 4" style="zoom:80%;"  align="left"/>
 
-**The detailed functions of the online tool for bulk data are** **described** **as follows **
+  
+**The detailed functions of the online tool for bulk data are described as follows**
 
 1. ***Differentially Expressed Genes*.** This function calculates significantly differentially expressed genes between primary and metastatic samples, including analysis of primary vs. metastasis as a whole and for each cell type individually.
 2. ***Functional Characteristics*.** Functional enrichment analysis of differentially expressed genes in different cell types between primary and metastasis.
